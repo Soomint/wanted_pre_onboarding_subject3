@@ -1,6 +1,6 @@
 // page.tsx
 import styles from '../styles/Home.module.css'
-import BlogList from './BlogList'
+import BlogList from './components/BlogList'
 
 // v13 "app" folder approach
 export const metadata = {
